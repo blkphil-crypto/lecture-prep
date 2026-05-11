@@ -1,6 +1,7 @@
 ---
-name lecture-prep
-description Course prep for Con Law, Crim Law, and Civil Lit. Generate exam questions, Socratic question sequences, hypotheticals, and discussion prompts. Use when preparing for class, drafting assessments, or building course materials.
+name: lecture-prep
+description: 'Course prep for Con Law, Crim Law, and Civil Lit. Generate exam questions, Socratic question sequences, hypotheticals, and discussion prompts. Use when preparing for class, drafting assessments, or building course materials.'
+---
 
 # Lecture Prep
 
